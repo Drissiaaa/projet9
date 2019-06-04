@@ -128,3 +128,17 @@ letter-spacing: 1px;
     display: inline-block;
     vertical-align: top;
 }
+.social{
+    margin-right: 1%;
+    text-align: left;
+}
+
+.video{
+    margin-left: 1%;
+    margin-top: 10%;
+}
+.social i{
+    font-size: 5rem;
+    padding: 50px;
+    color: white;
+}
